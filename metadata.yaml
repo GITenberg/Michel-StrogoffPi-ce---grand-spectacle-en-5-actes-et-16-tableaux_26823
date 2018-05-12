@@ -27,6 +27,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Verne
     - http://fr.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26823#Michel-StrogoffPi-ce---grand-spectacle-en-5-actes-et-16-tableaux
 gutenberg_bookshelf:
 - FR Littérature
 - FR Théâtre
